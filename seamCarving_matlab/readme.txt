@@ -1,0 +1,1 @@
+seam carving Ëã·¨ÊµÏÖ matlab
