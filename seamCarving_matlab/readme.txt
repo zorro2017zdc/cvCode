@@ -1,1 +1,1 @@
-seam carving �㷨ʵ�� matlab
+﻿seam carving 算法实现 matlab
