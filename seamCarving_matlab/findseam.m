@@ -78,8 +78,8 @@ end
 Im=reshape(Im,m,n-1,3);
 %Gradient是梯度图
 figure,imshow(Gradient);title('Gradient Image');
-%Energy是能量图
-figure,imshow(Energy);title('Energy Image');
+%Energy是累加能量图
+figure,imshow(Energy);title('Cumulative Energy Image');
 %Line是标注了分割线的图
 figure,imshow(Line);title('Image with Seam');
 %在Im上将分割线切掉
